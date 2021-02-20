@@ -1,1 +1,1 @@
-# CSC 411, Spring 2021, Computer Science, URI
+# CSC 411, Spring 2021, CS / URI
