@@ -1,6 +1,6 @@
 # Homework Assignment 2 (due Feb 28th)
 
-The goal of this assignment is to practice opening/reading binary files, number systems, and bitwise operations in `C`.  The assignment is worth a total of 100 points.  If you have any questions or need any help, please visit us during office hours and/or post questions on `EdStem`.
+The goal of this assignment is to practice **opening/reading binary files**, **number systems**, and **bitwise operations** in `C`.  The assignment is worth a total of 100 points.  If you have any questions or need any help, please visit us during office hours and/or post questions on `EdStem`.
 
 ## `1. HexDump (20 pts)`
 This program will open a *binary file* and dump its contents to the *standard output*.  It should work similar to the `hexdump` utility.  You can use the example code from [fread](http://www.cplusplus.com/reference/cstdio/fread/) for opening a binary file.  Note that the example follows these steps for opening/loading/closing a binary file:
@@ -153,7 +153,7 @@ Subnet mask:     255.252.0.0
 ```
 
 ## Submission and Grading
-You will submit three files named `hexdump.c`, `decode-inst.c`, and `decode-ipv4.c`.  Each file/program should include its own `main` function.  You are required to provide meaningful comments in all your functions and use proper coding style and indentation.  Your submission will be tested and graded by an autograder using `gcc` on a `linux` machine, for this reason it cannot be stressed enough that your program must follow the exact specifications for input and output upon submission, including the number of whitespaces.  
+You will submit three files named `hexdump.c`, `decode-inst.c`, and `decode-ipv4.c`.  Each file/program should include its own `main` function.  You are required to provide meaningful comments in all your functions and use proper coding style and indentation.  Your submission will be tested and graded by an autograder using `gcc` on a `linux` machine, for this reason it cannot be stressed enough that your program must follow the exact specifications for input and output upon submission, including the number of whitespaces.
 
 For each of the questions you either pass the test cases (full points) or not (zero points).  To submit your solution to Gradescope, simply select the three required files and use the `drag and drop` option.
 
