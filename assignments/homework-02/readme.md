@@ -3,7 +3,7 @@
 The goal of this assignment is to practice **opening/reading binary files**, **number systems**, and **bitwise operations** in `C`.  The assignment is worth a total of 100 points.  If you have any questions or need any help, please visit us during office hours and/or post questions on `EdStem`.
 
 ## `1. HexDump (20 pts)`
-This program will open a *binary file* and dump its contents to the *standard output*.  It should work similar to the `hexdump` utility.  You can use the example code from [fread](http://www.cplusplus.com/reference/cstdio/fread/) for opening a binary file.  Note that the example follows these steps for opening/loading/closing a binary file:
+This program will open a *binary file* and dump its contents to the *standard output*.  It should work similar to the `hexdump` utility.  You can use the [example code provided with the `fread` documentation](http://www.cplusplus.com/reference/cstdio/fread/) for properly opening a binary file.  Note that the example follows these steps for opening/loading/closing a binary file:
 
 - create two pointers, one for the file and another for the buffer in memory
 - open the binary file in `rb` mode
