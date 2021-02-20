@@ -41,7 +41,7 @@ $ ./hexdump file.bin 8
 00000010 0e 00 00 00
 ```
 
-## `2. Parsing Instructions (35 pts)`
+## `2. Decoding Instructions (35 pts)`
 In this problem, your program will take as input a binary file containing instructions from a very small instruction set.  The goal of your program is to read through the file and print every instruction and its operands.  The instruction set is very simple, and all instructions follow a uniform encoding:
 
 - 2 bits for the opcode
