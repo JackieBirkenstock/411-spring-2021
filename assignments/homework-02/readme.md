@@ -153,7 +153,7 @@ Subnet mask:     255.252.0.0
 ```
 
 ## Submission and Grading
-You will submit three files named `hexdump.c`, `decode-inst.c`, and `decode-ipv4.c`.  Each file/program should include its own `main` function.  You are required to provide meaningful comments in all your functions and use proper coding style and indentation.  Your submission will be tested and graded by an autograder using `gcc` on a `linux` machine, for this reason it cannot be stressed enough that your program must follow the specifications for input and output upon submission.  
+You will submit three files named `hexdump.c`, `decode-inst.c`, and `decode-ipv4.c`.  Each file/program should include its own `main` function.  You are required to provide meaningful comments in all your functions and use proper coding style and indentation.  Your submission will be tested and graded by an autograder using `gcc` on a `linux` machine, for this reason it cannot be stressed enough that your program must follow the exact specifications for input and output upon submission, including the number of whitespaces.  
 
 For each of the questions you either pass the test cases (full points) or not (zero points).  To submit your solution to Gradescope, simply select the three required files and use the `drag and drop` option.
 
